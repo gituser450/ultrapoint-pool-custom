@@ -1,0 +1,43 @@
+/* Insert your pool's unique CSS here */
+
+body {
+    background-image: linear-gradient(rgba(255, 255, 255, 0.83), rgba(124, 126, 252, 0.83)), url(http://104.219.251.190:7000/images/backing-home.jpg);
+}
+
+#coinLogo {
+    display: block;
+    margin: 3px 5px;
+}
+
+#coinLogo > img {
+    width: 76px;
+}
+
+@media only screen and (max-width: 996px) {
+    #coinLogo {
+        display: inline-block;
+    }
+
+    #coinLogo > img {
+        width: 56px;
+    }
+}
+
+.nav-side-menu {
+    background-color: rgba(0, 0, 0, 0.7);
+    height: 93%;
+}
+
+.brand {
+    background: #0f0c29; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #24243e, #302b63, #0f0c29); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+#top-bar {
+    background-color: rgba(2, 116, 168, 0.83);
+}
+
+footer {
+    background-color: rgba(38, 38, 38, 0.7);
+}
