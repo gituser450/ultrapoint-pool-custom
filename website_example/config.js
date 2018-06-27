@@ -1,4 +1,4 @@
-var api = "http://104.219.251.190:8117";
+var api = "http://your.pool.host:8117";
 
 var email = "support@ultrapoint.com";
 var telegram = "https://t.me/ultrapoint";
