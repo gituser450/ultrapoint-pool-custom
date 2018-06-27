@@ -6,8 +6,8 @@ var discord = "https://discordapp.com/invite/ultrapoint";
 
 var marketCurrencies = ["{symbol}-BTC", "{symbol}-USD", "{symbol}-EUR", "{symbol}-CAD"];
 
-var blockchainExplorer = "http://chainradar.com/{symbol}/block/{id}";
-var transactionExplorer = "http://chainradar.com/{symbol}/transaction/{id}";
+var blockchainExplorer = "http://104.219.251.190:8081/block/{id}";
+var transactionExplorer = "http://104.219.251.190:8081/tx/{id}";
 
 var themeCss = "themes/default.css";
 var defaultLang = 'en';
