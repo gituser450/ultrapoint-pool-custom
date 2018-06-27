@@ -6,7 +6,7 @@ Ultrapoint's custom assets for [cryptonote-nodejs-pool](https://github.com/dvand
 
 #### Assets' usage
 
-Simply replace the contents of each directory here to the appropriate one in your [cryptonote-nodejs-pool](https://github.com/dvandal/cryptonote-nodejs-pool)'s copy.
+__Simply replace the contents of each directory here to the appropriate one in your [cryptonote-nodejs-pool](https://github.com/dvandal/cryptonote-nodejs-pool)'s copy.__
 
 `cryptonote-nodejs-pool` is a high performance Node.js (with native C addons) mining pool for CryptoNote based coins. Comes with lightweight example front-end script which uses the pool's AJAX API. Support for Cryptonight (Original, Monero v7, Stellite v7), Cryptonight Light (Original, Aeon v7, IPBC) and Cryptonight Heavy (Sumokoin) algorithms.
 
