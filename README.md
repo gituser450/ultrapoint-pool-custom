@@ -14,7 +14,7 @@ __Simply replace the contents of each directory here to the appropriate one in y
 
 Ultrapoint development can be supported directly through donations.
 
-The Ultrapoint donation address is: `9RUGwFu3WGh3wAkeWWzMNiQXiW9ChYRpH974mDdrGcjpEcpPrz143oc9sV1W8YyAUwCztbfxt9usZSMVnSBwPxCaDXzhYWz` (viewkey: `ac3b8aaffde0fba30a69cfceb54c7192aa6cf6161f86c8e970252d6ae94347e7`)
+The Ultrapoint donation address is: `7Ey8jHDkWqYDSpoSssv5EmAcsXCct4hum4mhHxT6ruaof9C7JM1ekjsYFa8dQEUL4QMai15akL2az2Me48ShgNMWV3yBkSV` (viewkey: `1df312824af6eaae0667fbebe941d25510745ea2f5a7889e0fa509e2d79a3404`)
 
 The Bitcoin donation address is: `1DDquqzHZEM2PF7Qyftr9hvxk2NJaiozxx`
 
